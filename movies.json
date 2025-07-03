@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Inception",
+    "year": "2010",
+    "poster": "images/inception.jpg",
+    "trailer": "https://www.youtube.com/embed/YoHD9XEInc0"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "poster": "images/endgame.jpg",
+    "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c"
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "poster": "images/interstellar.jpg",
+    "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E"
+  }
+]
